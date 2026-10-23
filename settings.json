@@ -1,0 +1,22 @@
+{
+  "botEnabled": true,
+  "autoReply": true,
+  "welcomeEnabled": {},
+  "goodbyeEnabled": {},
+  "welcomeMsg": {},
+  "goodbyeMsg": {},
+  "disabledGroups": [],
+  "badWords": [],
+  "allowedLinks": [],
+  "antispam": {},
+  "antilink": {},
+  "antibadwords": {},
+  "antiraid": {},
+  "antibot": {},
+  "antiforward": {},
+  "antinsfw": {},
+  "points": {},
+  "roles": {},
+  "localBanned": {},
+  "warnLimit": {}
+}
